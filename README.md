@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @danielhankim
-- 👀 I’m interested in Complex systems and use network science and statistical physics to learn them.
-- 🌱 I’m currently learning machine learning and deep learning to find hidden patterns and universalities in complex systems.
+I am interested in understanding the structures and functions of various Complex Systems from social networks to biological systems.  
+To reach my goal, I use simple models in Statistical Physics and Network Science.  
+Recently, I am trying to bring Machine Learning into my research for a better understanding of complex systems and seeking to apply these to solve real-world problems. 
 
 <!---
 danielhankim/danielhankim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
